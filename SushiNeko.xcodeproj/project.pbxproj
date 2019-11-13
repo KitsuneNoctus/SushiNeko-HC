@@ -19,6 +19,7 @@
 		3FEFD1BB237BD30E00A55588 /* sfx_swipe.caf in Resources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BA237BD30E00A55588 /* sfx_swipe.caf */; };
 		3FEFD1BD237BD36400A55588 /* MSButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BC237BD36400A55588 /* MSButtonNode.swift */; };
 		3FEFD1BF237BE84900A55588 /* SushiPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BE237BE84900A55588 /* SushiPiece.swift */; };
+		3FEFD1C1237BEEF100A55588 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1C0237BEEF100A55588 /* Character.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		3FEFD1BA237BD30E00A55588 /* sfx_swipe.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sfx_swipe.caf; sourceTree = "<group>"; };
 		3FEFD1BC237BD36400A55588 /* MSButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MSButtonNode.swift; sourceTree = "<group>"; };
 		3FEFD1BE237BE84900A55588 /* SushiPiece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SushiPiece.swift; sourceTree = "<group>"; };
+		3FEFD1C0237BEEF100A55588 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			children = (
 				3FEFD19F237BCE8C00A55588 /* AppDelegate.swift */,
 				3FEFD1A1237BCE8C00A55588 /* GameScene.sks */,
+				3FEFD1C0237BEEF100A55588 /* Character.swift */,
 				3FEFD1A3237BCE8C00A55588 /* Actions.sks */,
 				3FEFD1A5237BCE8C00A55588 /* GameScene.swift */,
 				3FEFD1BE237BE84900A55588 /* SushiPiece.swift */,
@@ -171,6 +174,7 @@
 				3FEFD1A6237BCE8C00A55588 /* GameScene.swift in Sources */,
 				3FEFD1A8237BCE8C00A55588 /* GameViewController.swift in Sources */,
 				3FEFD1A0237BCE8C00A55588 /* AppDelegate.swift in Sources */,
+				3FEFD1C1237BEEF100A55588 /* Character.swift in Sources */,
 				3FEFD1BF237BE84900A55588 /* SushiPiece.swift in Sources */,
 				3FEFD1BD237BD36400A55588 /* MSButtonNode.swift in Sources */,
 			);
