@@ -18,6 +18,7 @@
 		3FEFD1B8237BD30000A55588 /* assets.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 3FEFD1B7237BD30000A55588 /* assets.atlas */; };
 		3FEFD1BB237BD30E00A55588 /* sfx_swipe.caf in Resources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BA237BD30E00A55588 /* sfx_swipe.caf */; };
 		3FEFD1BD237BD36400A55588 /* MSButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BC237BD36400A55588 /* MSButtonNode.swift */; };
+		3FEFD1BF237BE84900A55588 /* SushiPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BE237BE84900A55588 /* SushiPiece.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		3FEFD1B7237BD30000A55588 /* assets.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = assets.atlas; sourceTree = "<group>"; };
 		3FEFD1BA237BD30E00A55588 /* sfx_swipe.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sfx_swipe.caf; sourceTree = "<group>"; };
 		3FEFD1BC237BD36400A55588 /* MSButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MSButtonNode.swift; sourceTree = "<group>"; };
+		3FEFD1BE237BE84900A55588 /* SushiPiece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SushiPiece.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				3FEFD1A1237BCE8C00A55588 /* GameScene.sks */,
 				3FEFD1A3237BCE8C00A55588 /* Actions.sks */,
 				3FEFD1A5237BCE8C00A55588 /* GameScene.swift */,
+				3FEFD1BE237BE84900A55588 /* SushiPiece.swift */,
 				3FEFD1A7237BCE8C00A55588 /* GameViewController.swift */,
 				3FEFD1A9237BCE8C00A55588 /* Main.storyboard */,
 				3FEFD1AC237BCE8E00A55588 /* Assets.xcassets */,
@@ -168,6 +171,7 @@
 				3FEFD1A6237BCE8C00A55588 /* GameScene.swift in Sources */,
 				3FEFD1A8237BCE8C00A55588 /* GameViewController.swift in Sources */,
 				3FEFD1A0237BCE8C00A55588 /* AppDelegate.swift in Sources */,
+				3FEFD1BF237BE84900A55588 /* SushiPiece.swift in Sources */,
 				3FEFD1BD237BD36400A55588 /* MSButtonNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
