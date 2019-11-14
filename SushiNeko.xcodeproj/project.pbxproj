@@ -20,6 +20,7 @@
 		3FEFD1BD237BD36400A55588 /* MSButtonNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BC237BD36400A55588 /* MSButtonNode.swift */; };
 		3FEFD1BF237BE84900A55588 /* SushiPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1BE237BE84900A55588 /* SushiPiece.swift */; };
 		3FEFD1C1237BEEF100A55588 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FEFD1C0237BEEF100A55588 /* Character.swift */; };
+		3FEFD1C3237CE22200A55588 /* AnimationActions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 3FEFD1C2237CE22200A55588 /* AnimationActions.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		3FEFD1BC237BD36400A55588 /* MSButtonNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MSButtonNode.swift; sourceTree = "<group>"; };
 		3FEFD1BE237BE84900A55588 /* SushiPiece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SushiPiece.swift; sourceTree = "<group>"; };
 		3FEFD1C0237BEEF100A55588 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		3FEFD1C2237CE22200A55588 /* AnimationActions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = AnimationActions.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				3FEFD19F237BCE8C00A55588 /* AppDelegate.swift */,
 				3FEFD1A1237BCE8C00A55588 /* GameScene.sks */,
 				3FEFD1C0237BEEF100A55588 /* Character.swift */,
+				3FEFD1C2237CE22200A55588 /* AnimationActions.sks */,
 				3FEFD1A3237BCE8C00A55588 /* Actions.sks */,
 				3FEFD1A5237BCE8C00A55588 /* GameScene.swift */,
 				3FEFD1BE237BE84900A55588 /* SushiPiece.swift */,
@@ -158,6 +161,7 @@
 				3FEFD1A2237BCE8C00A55588 /* GameScene.sks in Resources */,
 				3FEFD1B8237BD30000A55588 /* assets.atlas in Resources */,
 				3FEFD1AD237BCE8E00A55588 /* Assets.xcassets in Resources */,
+				3FEFD1C3237CE22200A55588 /* AnimationActions.sks in Resources */,
 				3FEFD1B0237BCE8E00A55588 /* LaunchScreen.storyboard in Resources */,
 				3FEFD1BB237BD30E00A55588 /* sfx_swipe.caf in Resources */,
 				3FEFD1A4237BCE8C00A55588 /* Actions.sks in Resources */,
